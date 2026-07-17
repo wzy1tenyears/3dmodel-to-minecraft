@@ -6,7 +6,6 @@ both a graphical interface and a command-line interface.
 - [English documentation](cpp/README.md)
 - [中文文档](cpp/README.zh-CN.md)
 - [Build instructions](cpp/BUILDING.md)
-- [Current engineering TODO](TODO.md)
 
 The active source tree is under `cpp/`. Build output, local worlds, generated
 Minecraft texture atlases, and installer archives are intentionally excluded
