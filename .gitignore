@@ -1,0 +1,28 @@
+# Local data and generated outputs
+local-data/
+cpp/build/
+cpp/build-next/
+cpp/dist/
+cpp/cache/
+cpp/test-worlds/
+cpp/release-smoke-*/
+cpp/config.local.json
+cpp/*.obj
+cpp/*.pdb
+cpp/*.exe
+cpp/*.ilk
+cpp/*.exp
+cpp/*.lib
+cpp/*.idb
+cpp/*.iobj
+cpp/*.ipdb
+
+# Local atlas/tool workspaces
+cpp/tools/atlas-26.2/assets/
+cpp/tools/*manifest*.json
+cpp/vendor/ots/res/atlases/vanilla.atlas
+cpp/vendor/ots/res/atlases/vanilla.png
+
+# General local files
+config.local.json
+*.log

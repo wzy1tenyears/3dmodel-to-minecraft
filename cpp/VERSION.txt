@@ -1,0 +1,5 @@
+3dmodel-to-minecraft C++
+Release: 2026.07.14
+
+This release contains the native Windows GUI and CLI, the runtime palette and
+atlas resources, user documentation, and third-party notices.
